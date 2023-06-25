@@ -31,7 +31,7 @@ body {
     --main-duration: 0.3s; 
 }
 
-      /* Header*/
+      /* Start-Header*/
 
 .header {
     padding: 20px; 
@@ -117,9 +117,9 @@ body {
     border-bottom: 1px solid #DDD;
 }
 
+        /* End-Header */
 
-
-       /* Landing */
+       /* Start-Landing */
 
        
 .landing {
@@ -147,8 +147,10 @@ body {
     font-size: 19px;
     line-height: 1.8;
 } 
+
+      /* End-Landing */
   
-    /* Features  */
+    /* Start-Features */
 
 
 .features {
@@ -182,8 +184,10 @@ body {
    font-size: 17px;
 } 
 
+    /* End-Features */
 
-   /* Services */
+   /* Start-Services */
+
 
 .services {
     padding-top: var(--section-padding);
@@ -263,8 +267,9 @@ body {
     }
 }
 
+    /* End-Services */
 
-    /* Portfolio */
+    /* Start-Portfolio */
 
     
 .Portfolio {
@@ -327,8 +332,9 @@ body {
     margin-bottom: 0;
 }
 
+    /* End-Portfolio */
 
-              /* About  */
+     /*start- About*/
 
 
 .about {
@@ -423,9 +429,9 @@ body {
     border-color: var(--main-color);
 }
 
+     /*End-About*/
 
-            /*  Contact  */
-
+    /* Start-Contact*/
 
 .contact  {
     padding-top: var(--section-padding);
@@ -488,8 +494,9 @@ body {
     }
 }
  
+    /* End-Contect */
 
-           /* Footer */
+    /*Start-Footer */
 
 .footer {
     background-color: var(--secondary-color);
@@ -504,6 +511,6 @@ body {
     font-weight: bold;
 } 
 
-
+    /* End-Footer */
 
 
